@@ -1,1 +1,3 @@
-"# myblog" 
+myblog
+
+powered by hexo
