@@ -670,6 +670,11 @@ hasown@^2.0.2:
   dependencies:
     function-bind "^1.1.2"
 
+hexo-blog-encrypt@^3.1.9:
+  version "3.1.9"
+  resolved "https://registry.npmmirror.com/hexo-blog-encrypt/-/hexo-blog-encrypt-3.1.9.tgz"
+  integrity sha512-dzuZiW5mD8t1FOhJXqc+IgV1Tc45YtatJb/w8k4PyT9McQxsROQXsBw+zbDembzuqMnbnkCeT2SapZ/r9AgAcw==
+
 hexo-cli@^4.3.2:
   version "4.3.2"
   resolved "https://registry.npmmirror.com/hexo-cli/-/hexo-cli-4.3.2.tgz"
@@ -813,6 +818,7 @@ hexo-server@^3.0.0:
     hexo-site "file:"
     hexo-theme-a4 "^1.9.7"
     hexo-theme-landscape "^1.0.0"
+    hexo-wordcount "^6.0.1"
 
 hexo-theme-a4@^1.9.7:
   version "1.9.7"
