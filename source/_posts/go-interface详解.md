@@ -2,6 +2,7 @@
 title: go-interface详解
 date: 2025-03-22 02:43:31
 tags:
+top: True
 ---
 
 # Go interface详解及源码阅读
